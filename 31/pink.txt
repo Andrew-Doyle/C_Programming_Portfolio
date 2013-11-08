@@ -1,0 +1,4 @@
+pink
+blue
+red
+white
